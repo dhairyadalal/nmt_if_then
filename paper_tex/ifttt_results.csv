@@ -1,0 +1,7 @@
+thin,LSTM,OpenNMT,Trans.,Chen '16,Quirk '16
+Sequence ,52.35,55.41,53.06,N/A,N/A
+Positional,75.31,76.39,75.33,N/A,N/A
+Trigger Channel,75.09,77.44,74.91,91.6,89.1
+Trigger Function,61.37,63.72,62.27,87.5,71
+Action Channel,85.02,84.66,84.12,91.6,89.1
+Action Function,79.78,79.78,79.6,87.5,71

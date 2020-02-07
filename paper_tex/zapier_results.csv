@@ -1,0 +1,7 @@
+thin,LSTM (Baseline),OpenNMT,Transformer
+Sequence ,84.75,93.23,93.91
+Positional,94.39,97.66,97.94
+Trigger Channel,97.18,99.09,99.26
+Trigger Function,88.97,94.96,95.47
+Action Channel,97.65,98.97,99.16
+Action Function,93.74,97.61,98

@@ -1,0 +1,60 @@
+
+Results
+
+[Zapier]
+Simple LSTM
+	seq acc:  0.8474994854908418
+	positional acc 0.9438670508335049
+	Trigger channel acc:  0.9718048981271866
+	Trigger function acc 0.8896892364684091
+	Action channel acc:  0.9765383823832064
+	Action function acc:  0.9374356863552171
+	Error Dist [0.84749949 0.10537148 0.03128216 0.00679152 0.00905536]
+
+Open NMT Zapier
+	seq acc:  0.9322905947725869
+	positional acc 0.9765898332990327
+	Trigger channel acc:  0.9909446388145708
+	Trigger function acc 0.9495781024902243
+	Action channel acc:  0.9897098168347397
+	Action function acc:  0.976126775056596
+	Error Dist [0.93229059 0.05001029 0.01255402 0.00205804 0.00308705]
+
+Transformers Zapier
+	seq acc:  0.9390821156616588
+	positional acc 0.979368182753653
+	Trigger channel acc:  0.9925910681210125
+	Trigger function acc 0.9547231940728544
+	Action channel acc:  0.9915568369028006.93
+	Action function acc:  0.9800205973223481
+	Error Dist [9.39082116e-01 4.73348426e-02 9.26116485e-03 6.17410990e-04 3.70446594e-03]
+
+
+[IFTTT]
+
+Simple LSTM
+    seq acc:  0.5234657039711191
+	positional acc 0.753158844765343
+	Trigger channel acc:  0.7509025270758123
+	Trigger function acc 0.6137184115523465
+	Action channel acc:  0.8501805054151624
+	Action function acc:  0.7978339350180506
+	Error Dist [0.5234657  0.14440433 0.23104693 0.0234657  0.07761733]
+
+Open NMT
+    seq acc:  0.5541516245487365
+	positional acc 0.7639891696750902
+	Trigger channel acc:  0.7743682310469314
+	Trigger function acc 0.6371841155234657
+	Action channel acc:  0.8465703971119134
+	Action function acc:  0.7978339350180506
+	Error Dist [0.55415162 0.12093863 0.21841155 0.03971119 0.066787  ]
+
+Transformers 
+	seq acc:  0.5306859205776173
+	positional acc 0.7522563176895307
+	Trigger channel acc:  0.7490974729241877
+	Trigger function acc 0.6227436823104693
+	Action channel acc:  0.8411552346570397
+	Action function acc:  0.796028880866426
+	Error Dist [0.53068592 0.13357401 0.22924188 0.02707581 0.07942238]

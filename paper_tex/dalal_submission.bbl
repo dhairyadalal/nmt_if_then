@@ -1,0 +1,113 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Bahdanau, Cho, and
+  Bengio}{2014}]{bahdanau2014neural}
+Bahdanau, D.; Cho, K.; and Bengio, Y.
+\newblock 2014.
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock cite arxiv:1409.0473Comment: Accepted at ICLR 2015 as oral
+  presentation.
+
+\bibitem[\protect\citeauthoryear{Beltagy and
+  Quirk}{2016}]{beltagy-quirk-2016-improved}
+Beltagy, I., and Quirk, C.
+\newblock 2016.
+\newblock Improved semantic parsers for if-then statements.
+\newblock In {\em Proceedings of the 54th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)},  726--736.
+\newblock Berlin, Germany: Association for Computational Linguistics.
+
+\bibitem[\protect\citeauthoryear{Chen \bgroup et al\mbox.\egroup
+  }{2016}]{chen2016latent}
+Chen, X.; Liu, C.; Shin, R.; Song, D.; and Chen, M.
+\newblock 2016.
+\newblock Latent attention for if-then program synthesis.
+\newblock In {\em Proceedings of the 29th Advances in Neural Information
+  Processing Systems}.
+
+\bibitem[\protect\citeauthoryear{Klein \bgroup et al\mbox.\egroup
+  }{2018}]{klein-etal-2018-opennmt}
+Klein, G.; Kim, Y.; Deng, Y.; Nguyen, V.; Senellart, J.; and Rush, A.
+\newblock 2018.
+\newblock {O}pen{NMT}: Neural machine translation toolkit.
+\newblock In {\em Proceedings of the 13th Conference of the Association for
+  Machine Translation in the {A}mericas (Volume 1: Research Papers)},
+  177--184.
+\newblock Boston, MA: Association for Machine Translation in the Americas.
+
+\bibitem[\protect\citeauthoryear{{Kreutzer}, {Bastings}, and
+  {Riezler}}{2019}]{JoeyNMT}
+{Kreutzer}, J.; {Bastings}, J.; and {Riezler}, S.
+\newblock 2019.
+\newblock Joey {NMT}: A minimalist {NMT} toolkit for novices.
+\newblock {\em To Appear in EMNLP-IJCNLP 2019: System Demonstrations}.
+
+\bibitem[\protect\citeauthoryear{Krishnamurthy, Dasigi, and
+  Gardner}{2017}]{krishnamurthy-etal-2017-neural}
+Krishnamurthy, J.; Dasigi, P.; and Gardner, M.
+\newblock 2017.
+\newblock Neural semantic parsing with type constraints for semi-structured
+  tables.
+\newblock In {\em Proceedings of the 2017 Conference on Empirical Methods in
+  Natural Language Processing},  1516--1526.
+\newblock Copenhagen, Denmark: Association for Computational Linguistics.
+
+\bibitem[\protect\citeauthoryear{Lin}{2017}]{Lin2017ProgramSF}
+Lin, X.~V.
+\newblock 2017.
+\newblock Program synthesis from natural language using recurrent neural
+  networks.
+
+\bibitem[\protect\citeauthoryear{Luong, Pham, and
+  Manning}{2015}]{DBLP:journals/corr/LuongPM15}
+Luong, M.; Pham, H.; and Manning, C.~D.
+\newblock 2015.
+\newblock Effective approaches to attention-based neural machine translation.
+\newblock {\em CoRR} abs/1508.04025.
+
+\bibitem[\protect\citeauthoryear{Quirk, Mooney, and
+  Galley}{2015}]{quirk-etal-2015-language}
+Quirk, C.; Mooney, R.; and Galley, M.
+\newblock 2015.
+\newblock Language to code: Learning semantic parsers for if-this-then-that
+  recipes.
+\newblock In {\em Proceedings of the 53rd Annual Meeting of the Association for
+  Computational Linguistics and the 7th International Joint Conference on
+  Natural Language Processing (Volume 1: Long Papers)},  878--888.
+\newblock Beijing, China: Association for Computational Linguistics.
+
+\bibitem[\protect\citeauthoryear{Shazeer and
+  Stern}{2018}]{DBLP:journals/corr/abs-1804-04235}
+Shazeer, N., and Stern, M.
+\newblock 2018.
+\newblock Adafactor: Adaptive learning rates with sublinear memory cost.
+\newblock {\em CoRR} abs/1804.04235.
+
+\bibitem[\protect\citeauthoryear{Sutskever, Vinyals, and
+  Le}{2014}]{DBLP:journals/corr/SutskeverVL14}
+Sutskever, I.; Vinyals, O.; and Le, Q.~V.
+\newblock 2014.
+\newblock Sequence to sequence learning with neural networks.
+\newblock {\em CoRR} abs/1409.3215.
+
+\bibitem[\protect\citeauthoryear{Vaswani \bgroup et al\mbox.\egroup
+  }{2017}]{NIPS2017_7181}
+Vaswani, A.; Shazeer, N.; Parmar, N.; Uszkoreit, J.; Jones, L.; Gomez, A.~N.;
+  Kaiser, L.~u.; and Polosukhin, I.
+\newblock 2017.
+\newblock Attention is all you need.
+\newblock In Guyon, I.; Luxburg, U.~V.; Bengio, S.; Wallach, H.; Fergus, R.;
+  Vishwanathan, S.; and Garnett, R., eds., {\em Advances in Neural Information
+  Processing Systems 30}. Curran Associates, Inc.
+\newblock  5998--6008.
+
+\bibitem[\protect\citeauthoryear{Yao \bgroup et al\mbox.\egroup
+  }{2018}]{DBLP:journals/corr/abs-1808-06740}
+Yao, Z.; Li, X.; Gao, J.; Sadler, B.~M.; and Sun, H.
+\newblock 2018.
+\newblock Interactive semantic parsing for if-then recipes via hierarchical
+  reinforcement learning.
+\newblock {\em CoRR} abs/1808.06740.
+
+\end{thebibliography}

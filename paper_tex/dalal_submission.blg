@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dalal_submission.aux
+The style file: aaai.bst
+Database file #1: bib1.bib
+I was expecting a `,' or a `}'---line 43 of file bib1.bib
+ :  
+ :  url = {https://arxiv.org/abs/1907.12484}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 121 of file bib1.bib
+ : @article{JoeyNMT
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in Lin2017ProgramSF
+You've used 13 entries,
+            2568 wiz_defined-function locations,
+            654 strings with 7788 characters,
+and the built_in function-call counts, 6015 in all, are:
+= -- 632
+> -- 296
+< -- 5
++ -- 101
+- -- 101
+* -- 462
+:= -- 970
+add.period$ -- 71
+call.type$ -- 13
+change.case$ -- 99
+chr.to.int$ -- 13
+cite$ -- 14
+duplicate$ -- 236
+empty$ -- 393
+format.name$ -- 128
+if$ -- 1260
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 12
+newline$ -- 85
+num.names$ -- 41
+pop$ -- 96
+preamble$ -- 1
+purify$ -- 112
+quote$ -- 0
+skip$ -- 203
+stack$ -- 0
+substring$ -- 241
+swap$ -- 74
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 104
+warning$ -- 1
+while$ -- 42
+width$ -- 15
+write$ -- 188
+(There were 2 error messages)
